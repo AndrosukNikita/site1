@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    background-color: burlywood;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
+
+p img {
+    width: 25px;
+    margin: 15px;
+}
+
+.b{
+    border: 10px solid blueviolet;
+}
+main{
+     color:blue;
+}
+main h1{
+     color:black;
+}
+p img {
+    width: 25px;
+    margin: 15px;
+}
+main img {
+     width: 350px;
+}
+.f{
+    border:1px solid black ;
+}
+td{
+   border:1px solid black ;
+   color:white;
+   background-color: black;
+} 
+h4{
+    text-align: center;
+}
+footer{
+    background-color: chartreuse;
+}
+header{
+    background-color: chartreuse;
+}
